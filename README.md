@@ -10,5 +10,6 @@ Blog para el curso de Git y Github de Platzi
 * Buenas prácticas.
 * Trabajo en repositorio con mi equipo de proyecto.
 * Creado por Platzi Team.
+* Incluye ejemplos en windows Linux y Mac.
 
 Este **Readme.md** contiene un poco de la información sobre el proyecto que se realizó en el curso. Si quieres aprender Git y Github como yo lo hice [**entra al curso de Plazti**](https://platzi.com/clases/git-github/ "entra al curso de Plazti").
