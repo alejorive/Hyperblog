@@ -4,7 +4,7 @@ Blog para el curso de Git y Github de Platzi
 >En el curso de Git y Guthub de Platzi pude aprender los comandos necesarios y manejo de versiones de mis proyectos de desarrollo a través de consola y de un repositorio remoto.
 > - Git y Github 
 
-#En este curso aprendí:
+## En este curso aprendí:
 * Todos los comandos de Git.
 * El flujo de trabajo en Github.
 * Buenas prácticas.
